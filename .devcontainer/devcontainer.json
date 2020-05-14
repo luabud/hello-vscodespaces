@@ -1,0 +1,9 @@
+{
+        "extensions": [
+        "ms-python.python",
+    ],
+    "settings": {
+        "python.languageServer": "Microsoft"
+    }
+
+}
