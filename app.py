@@ -1,6 +1,6 @@
 from flask import Flask
 
-app = Flask.run()
+app = flask.run()
 
 @app.route('/')
 def index():
