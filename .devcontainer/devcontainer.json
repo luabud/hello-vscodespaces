@@ -1,9 +1,9 @@
 {
-        "extensions": [
+    "extensions": [
         "ms-python.python",
     ],
     "settings": {
-        "python.jediEnabled": false
+        "python.languageServer": "Pylance"
     }
 
 }

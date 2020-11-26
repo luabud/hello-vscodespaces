@@ -1,7 +1,7 @@
 from flask import Flask
 
-app = Flask.run()
+app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return "Hello, VS Codespaces!"
+    return "Hello, GH Codespaces!"
