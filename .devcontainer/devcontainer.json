@@ -3,7 +3,8 @@
         "ms-python.python",
     ],
     "settings": {
-        "python.languageServer": "Pylance"
+        "python.languageServer": "Pylance",
+        "python.experiments.optInto": ["DeprecatePythonPath - experiment"]
     }
 
 }
