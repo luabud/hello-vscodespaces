@@ -1,10 +1,10 @@
 {
-        "extensions": [
+    "extensions": [
         "ms-python.python",
         "ms-python.vscode-pylance"
     ],
     "settings": {
-        "python.jediEnabled": false
+        "python.languageServer": "Pylance"
     }
 
 }
